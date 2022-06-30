@@ -20,7 +20,7 @@
     "require": {
         "php": ">=7.2",
         "k-yamamoto-balocco/laravel-ui-utils": "0.1.1",
-        "k-yamamoto-balocco/common-structures": "0.1.0"
+        "k-yamamoto-balocco/common-structures": "^0.1.0"
     },
     "autoload": {
         "psr-4": {
